@@ -1,0 +1,23 @@
+# Data Collection & Scraping
+snscrape
+ntscraper  # Alternative if snscrape fails
+feedparser
+beautifulsoup4
+requests
+
+# Scheduling & Utilities
+schedule
+python-dotenv
+pytz
+
+# AI & Analysis
+google-generativeai
+transformers
+torch  # Required for transformers (CPU version is fine for now)
+
+# Database
+supabase
+
+# Web Server (Optional, for API or webhooks)
+fastapi
+uvicorn
